@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Full Stack Developer**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📫 How to reach me https://www.linkedin.com/in/zeeshan-masood-b80b32b2/
 - 📫 How to reach me **zeeshanmsd93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
