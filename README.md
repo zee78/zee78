@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zee78" alt="zee78" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on OpenSource Projects
+- 🌱 I’m currently learning **Full Stack Developer**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me https://www.linkedin.com/in/zeeshan-masood-b80b32b2/
 - 📫 How to reach me **zeeshanmsd93@gmail.com**
 
