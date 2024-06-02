@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zee78" alt="zee78" /></a> </p>
 
-- 🌱 I’m currently learning **React **
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **zeeshanmasood93@yahoo.com**
 
